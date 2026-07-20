@@ -136,17 +136,18 @@ void app_main(void)
 idf_component_register(SRCS "main.c"
                     INCLUDE_DIRS "."
                     REQUIRES driver)
-```
+
 
 ### 4.  บันทึกผลการทดลอง 
 
 #### 4.1 จาก `idf.py monitor` 
 
 ```
+`<img width="1297" height="481" alt="รูป" src="https://github.com/user-attachments/assets/49a55340-24fa-46d9-ba9f-c9ca299ef5c8" />
 
 
-```
+
 
 #### 4.2 จากการสังเกตุ LED 
-
+https://teams.microsoft.com/l/message/19:618ad5f90c224df3a347f8faebce48f6@thread.v2/1784522981217?context=%7B%22contextType%22%3A%22chat%22%7D
 
